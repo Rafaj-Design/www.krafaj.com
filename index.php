@@ -101,7 +101,7 @@
 			
 				<p>&nbsp;</p>
 				
-				<h1>K. Rafaj</h1>
+				<h1>Katerina Rafaj</h1>
 				
 				<p>Award Winning Garden Designer</p>
 			
@@ -135,7 +135,7 @@
 					
 						<div class="service-icon"><i class="fa fa-lightbulb-o"></i></div>
 						
-						<h3>Consultation</h3>
+						<h3>Consultations</h3>
 						
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo.</p>
 						
@@ -144,7 +144,7 @@
 					
 					<div class="col-sm-4 service-item color2 scrollimation scale-in d2">
 					
-						<div class="service-icon"><i class="fa fa-tree"></i></div>
+						<div class="service-icon"><i class="fa fa-leaf"></i></div>
 						
 						<h3>Maintenance</h3>
 						
@@ -255,13 +255,13 @@
 							<a href="#" data-filter="*">All</a>
 						</li>
 						<li class="scrollimation fade-right">
-							<a href="#" data-filter=".identity">Identity</a>
+							<a href="#" data-filter=".hampton">Hampton Court</a>
 						</li>
 						<li class="scrollimation fade-left">
-							<a href="#" data-filter=".logo">Logo</a>
+							<a href="#" data-filter=".designs">Designs</a>
 						</li>
 						<li class="scrollimation fade-left d1">
-							<a href="#" data-filter=".illustration">Illustration</a>
+							<a href="#" data-filter=".freestyle">Freestyle</a>
 						</li>
 					</ul>
 				</div><!--End portfolio filters -->
@@ -288,13 +288,13 @@
 					<!-- ==============================================
 					SINGLE PROJECT ITEM
 					=============================================== -->	
-					<article class="project-item illustration">
+					<article class="project-item freestyle">
 						
 						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Designer World</h2><!--Project Title -->
-							<p>illustration</p><!--Project Subtitle -->
+							<p>freestyle</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
@@ -314,13 +314,13 @@
 					END PROJECT ITEM
 					=============================================== -->						
 					
-					<article class="project-item identity logo">
+					<article class="project-item hampton designs">
 						
 						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Squirrel</h2><!--Project Title -->
-							<p>identity / logo</p><!--Project Subtitle -->
+							<p>hampton / designs</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
@@ -337,13 +337,13 @@
 						
 					</article><!--End Project Item -->
 
-					<article class="project-item illustration">
+					<article class="project-item freestyle">
 						
 						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Radio Tape</h2><!--Project Title -->
-							<p>illustration</p><!--Project Subtitle -->
+							<p>freestyle</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
@@ -359,13 +359,13 @@
 						
 					</article><!--End Project Item -->
 
-					<article class="project-item identity">
+					<article class="project-item hampton">
 						
 						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Austin Texas</h2><!--Project Title -->
-							<p>identity</p><!--Project Subtitle -->
+							<p>hampton</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
@@ -381,13 +381,13 @@
 						
 					</article><!--End Project Item -->
 
-					<article class="project-item logo">
+					<article class="project-item designs">
 						
 						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Red Glove</h2><!--Project Title -->
-							<p>logo</p><!--Project Subtitle -->
+							<p>designs</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
@@ -403,13 +403,13 @@
 						
 					</article><!--End Project Item -->
 
-					<article class="project-item logo">
+					<article class="project-item designs">
 						
 						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Checklist</h2><!--Project Title -->
-							<p>logo</p><!--Project Subtitle -->
+							<p>designs</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
@@ -425,13 +425,13 @@
 						
 					</article><!--End Project Item -->
 					
-					<article class="project-item identity logo">
+					<article class="project-item hampton designs">
 						
 						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Music City</h2><!--Project Title -->
-							<p>identity / logo</p><!--Project Subtitle -->
+							<p>hampton / designs</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
@@ -447,13 +447,13 @@
 						
 					</article><!--End Project Item -->
 
-					<article class="project-item illustration logo">
+					<article class="project-item freestyle designs">
 						
 						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Black Rock</h2><!--Project Title -->
-							<p>illustration / logo</p><!--Project Subtitle -->
+							<p>freestyle / designs</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
@@ -469,13 +469,13 @@
 						
 					</article><!--End Project Item -->
 
-					<article class="project-item illustration identity">
+					<article class="project-item freestyle hampton">
 						
 						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Coyote</h2><!--Project Title -->
-							<p>illustration / identity</p><!--Project Subtitle -->
+							<p>freestyle / hampton</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
@@ -498,6 +498,19 @@
 		</section>
 			
 		<!-- ==============================================
+		
+		 /* ### HOW TO CREATE A VALID ID TO USE: ###
+		 * Go to www.twitter.com and sign in as normal, go to your settings page.
+		 * Go to "Widgets" on the left hand side.
+		 * Create a new widget for what you need eg "user time line" or "search" etc.
+		 * Feel free to check "exclude replies" if you don't want replies in results.
+		 * Now go back to settings page, and then go back to widgets page and
+		 * you should see the widget you just created. Click edit.
+		 * Look at the URL in your web browser, you will see a long number like this:
+		 * 345735908357048478
+		 * Use this as your ID below instead!
+		 */
+		
 		TWITTER
 		=============================================== -->
 		<section id="twitter" class="add-padding bg-color1">
@@ -508,7 +521,7 @@
 						<i class="fa fa-twitter"></i>
 					</div>
 					<div class="col-sm-11">
-						<div id="twitter-slider" class="flexslider" data-widget-id="345690956013633536" data-tweets-length="3"></div>
+						<div id="twitter-slider" class="flexslider" data-widget-id="525271096916860929" data-tweets-length="5"></div>
 					</div>
 				</div>
 			</div>
