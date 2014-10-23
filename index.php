@@ -6,7 +6,9 @@
 		Title and Meta Tags
 		=============================================== -->
 		<meta charset="utf-8">
-		<title>Graphista</title>
+		<title>Katerina Rafaj Garden Design &amp; Maintenance</title>
+		<meta name="description" content="">
+		<meta name="keywords" content="Garden, Design, Award, Winning">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -25,6 +27,7 @@
 		<link rel="stylesheet" href="assets/css/font-awesome.min.css">
 		<link rel="stylesheet" href="assets/css/flexslider.css">
 		<link rel="stylesheet" href="assets/css/styles.css">
+		<link rel="stylesheet" href="assets/css/custom.css">
 		
 		<!-- ==============================================
 		Fonts
@@ -61,7 +64,7 @@
 					</button>
 					
 					<!-- ======= LOGO ========-->
-					<a class="navbar-brand scrollto" href="#home"><img src="assets/images/logo.png" alt=""/>Jane Doe</a>
+					<a class="navbar-brand scrollto" href="#home"><img src="assets/images/logo.png" alt=""/>Katerina Rafaj</a>
 				
 				</div>
 				
@@ -96,11 +99,11 @@
 		
 			<div class="container text-center">
 			
-				<p>Welcome to</p>
+				<p>&nbsp;</p>
 				
-				<h1>Graphista</h1>
+				<h1>K. Rafaj</h1>
 				
-				<p>The best choice for your online personal portfolio</p>
+				<p>Award Winning Garden Designer</p>
 			
 			</div>
 			
@@ -119,9 +122,9 @@
 				
 					<div class="col-sm-4 service-item color3 scrollimation scale-in">
 					
-						<div class="service-icon"><i class="fa fa-lightbulb-o"></i></div>
+						<div class="service-icon"><i class="fa fa-paint-brush"></i></div>
 						
-						<h3>Brand Identity</h3>
+						<h3>Garden Design</h3>
 						
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo.</p>
 						
@@ -130,9 +133,9 @@
 				
 					<div class="col-sm-4 service-item color1 scrollimation scale-in d1">
 					
-						<div class="service-icon"><i class="fa fa-desktop "></i></div>
+						<div class="service-icon"><i class="fa fa-lightbulb-o"></i></div>
 						
-						<h3>Web Design</h3>
+						<h3>Consultation</h3>
 						
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo.</p>
 						
@@ -141,9 +144,9 @@
 					
 					<div class="col-sm-4 service-item color2 scrollimation scale-in d2">
 					
-						<div class="service-icon"><i class="fa fa-rocket"></i></div>
+						<div class="service-icon"><i class="fa fa-tree"></i></div>
 						
-						<h3>Rocket Science</h3>
+						<h3>Maintenance</h3>
 						
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo.</p>
 						
@@ -172,9 +175,9 @@
 					
 					<div class="col-sm-6 scrollimation fade-left d3">
 					
-						<h1 class="big-text">I am <br/>Jane Doe </h1>
+						<h1 class="big-text">I am <br/>Katerina Rafaj </h1>
 						
-						<p class="lead">I am Jane Doe, a twenty five year old designer from NY. I have graduated with a Bachelor degree of Graphic &amp; Web Design, from the University of Pasadena.</p>
+						<p class="lead">I am Katerina Rafaj, a twenty eight year old designer from London. I have graduated with a Bachelor degree of Graphic &amp; Web Design, from the London College of Garden Design.</p>
 					
 						<p>I am passionate about combining function, interaction and form to design for fitting user experiences that make people happy. I have a passion for creating challenging, intuitive and beautiful products. My design process is very hands-on and visual.</p>
 					
@@ -210,20 +213,20 @@
 						<div class="skills-bars">
 						
 							<div class="skills-item skill1">
-								<span class="percent" data-percent="75">75%</span>
-								<p>Photoshop</p>
+								<span class="percent" data-percent="95">95%</span>
+								<p>Sketchup</p>
 							</div>
 							<div class="skills-item skill2">
 								<span class="percent" data-percent="70">70%</span>
-								<p>Illustrator</p>
+								<p>Photoshop</p>
 							</div>
 							<div class="skills-item skill3">
-								<span class="percent" data-percent="90">90%</span>
-								<p>HTML</p>
+								<span class="percent" data-percent="75">75%</span>
+								<p>VectorWks</p>
 							</div>
 							<div class="skills-item skill4">
-								<span class="percent" data-percent="60">60%</span>
-								<p>CSS</p>
+								<span class="percent" data-percent="99">99%</span>
+								<p>Hand drawn</p>
 							</div>
 							
 						</div>
@@ -588,15 +591,16 @@
 			<div class="container">
 			
 				<ul class="social-links text-center">
-					<li><a href="#link"><i class="fa fa-twitter fa-fw"></i></a></li>
-					<li><a href="#link"><i class="fa fa-facebook fa-fw"></i></a></li>
-					<li><a href="#link"><i class="fa fa-google-plus fa-fw"></i></a></li>
-					<li><a href="#link"><i class="fa fa-dribbble fa-fw"></i></a></li>
-					<li><a href="#link"><i class="fa fa-linkedin fa-fw"></i></a></li>
+					<li><a href="http://twitter.com/krafaj"><i class="fa fa-twitter fa-fw"></i></a></li>
+					<!-- <li><a href="#link"><i class="fa fa-facebook fa-fw"></i></a></li> -->
+					<!-- <li><a href="#link"><i class="fa fa-google-plus fa-fw"></i></a></li> -->
+					<!-- <li><a href="#link"><i class="fa fa-dribbble fa-fw"></i></a></li> -->
+					<li><a href="http://www.pinterest.com/krafiki/"><i class="fa fa-pinterest fa-fw"></i></a></li>
+					<li><a href="http://www.linkedin.com/pub/katerina-rafaj/54/818/7a4"><i class="fa fa-linkedin fa-fw"></i></a></li>
 				</ul>
 			
-				<p class="text-center">&copy; 2014 - All rights reserved</p>
-				<p class="text-center"><a href="https://wrapbootstrap.com/user/qthemes" target="_blank">Made by Qthemes</a></p>
+				<p class="text-center">&copy; <?php echo date('Y'); ?> - All rights reserved</p>
+				<p class="text-center"><a href="http://www.ridiculous-innovations.com" target="_blank">Made by Ridiculous Innovations</a></p>
 			
 			</div>
 			
@@ -620,16 +624,17 @@
 		<script src="assets/js/scripts.js"></script>
 		
 		<script>
+
 		
 			var mapPoint = {
-					'lat': 40.720099,
-					'lng': -74.005764,
+					'lat': 51.633669,
+					'lng': -0.157783,
 					'zoom' : 15,
-					'infoText':'<p>250 W Broadway\
-								<br/>New York\
-								<br/>NY 10013</p>',
+					'infoText':'<p>71 Avondale Avenue\
+								<br/>London\
+								<br/>EN4 8NB</p>',
 					'linkText':'View on Google Maps',
-					'mapAddress':'250 W Broadway, New York, NY 10013',
+					'mapAddress':'71 Avondale Avenue, EN4 8NB, London, UK',
 					'icon': 'assets/images/pin-dark.png'
 				};
 			
