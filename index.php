@@ -79,9 +79,7 @@
 						<li>
 							<a href="#about" class="scrollto">About Me</a>
 						</li>
-						<li>
-							<a href="#portfolio" class="scrollto">My Works</a>
-						</li>
+						<!-- <li><a href="#portfolio" class="scrollto">My Works</a></li> -->
 						<li>
 							<a href="#contact" class="scrollto">Contact Me</a>
 						</li>
@@ -126,7 +124,7 @@
 						
 						<h3>Garden Design</h3>
 						
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo.</p>
+						<!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo.</p> -->
 						
 						
 					</div>
@@ -137,7 +135,7 @@
 						
 						<h3>Consultations</h3>
 						
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo.</p>
+						<!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo.</p> -->
 						
 						
 					</div>
@@ -148,7 +146,7 @@
 						
 						<h3>Maintenance</h3>
 						
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo.</p>
+						<!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo.</p> -->
 						
 					</div>
 					
@@ -177,9 +175,19 @@
 					
 						<h1 class="big-text">I am <br/>Katerina Rafaj </h1>
 						
-						<p class="lead">I am Katerina Rafaj, a twenty eight year old designer from London. I have graduated with a Bachelor degree of Graphic &amp; Web Design, from the London College of Garden Design.</p>
+						<p class="lead">I am Katerina Rafaj, a twenty eight year old designer from London. I have graduated with a Bachelor degree of Landscape Design from Prague Horticulture University and have a degree from the London College of Garden Design.</p>
 					
-						<p>I am passionate about combining function, interaction and form to design for fitting user experiences that make people happy. I have a passion for creating challenging, intuitive and beautiful products. My design process is very hands-on and visual.</p>
+						<p>I love gardens and landscapes; I am passionate about using space cleverly and celebrating the strength in every landscape. Attention to detail is very important in my work and I take pride in making all the small things right.</p>
+						<p>&nbsp;</p>
+						<div class="row">
+							<div class="col-sm-4">
+								<img src="assets/images/gold.png" alt="" />
+							</div>
+							<div class="col-sm-8">
+								<p class="lead">I won a gold medal for my garden Gluttony at <strong>Hampton Court Flower Show 2014</strong></p>
+								<p><small>* as shown on the header photo</small></p>
+							</div>
+						</div>
 					
 					</div>
 				
@@ -202,9 +210,9 @@
 					
 						<h1 class="big-text">I got<br/>The skills </h1>
 						
-						<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.</p>
+						<p class="lead">A well designed landscape gives incredible pleasure and enjoyment and provides both a real impact and romance through masses of colour, texture and scent.</p>
 					
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.</p>
+						<p>Each client is different and sensitivity to the client’s needs, taste, surroundings and the site itself is required to create a garden design that not only delights and surprises but also works practically and belongs in its setting.<br />I can design timeless garden design style as well as a more contemporary style of planting design, using abundant shrubs and perennials, with wonderful combinations of textures and colours that are designed to contrast and complement each other.</p>
 					
 					</div>
 				
@@ -239,6 +247,9 @@
 		
 		</section>
 			
+		<?php
+		if (false) {
+		?>
 		<!-- ==============================================
 		PORTFOLIO
 		=============================================== -->
@@ -280,7 +291,7 @@
 				</div><!--Project Preview -->
 				
 			</div>
-		
+			
 			<div class="container masonry-wrapper">
 			
 				<div id="projects-container">
@@ -493,9 +504,11 @@
 				</div><!-- End projects --> 
 				
 			</div><!-- End container --> 
-			
 		
 		</section>
+		<?php
+		}
+		?>
 			
 		<!-- ==============================================
 		
@@ -543,7 +556,7 @@
 						
 						<p class="lead">I am available for freelance. Can't wait for the next exciting project! Could be yours?</p>
 					
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.</p>
+						<!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.</p> -->
 					
 					</div>
 				
