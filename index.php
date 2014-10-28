@@ -221,11 +221,11 @@
 						<div class="skills-bars">
 						
 							<div class="skills-item skill1">
-								<span class="percent" data-percent="95">95%</span>
+								<span class="percent" data-percent="99">99%</span>
 								<p>Sketchup</p>
 							</div>
 							<div class="skills-item skill2">
-								<span class="percent" data-percent="70">70%</span>
+								<span class="percent" data-percent="80">80%</span>
 								<p>Photoshop</p>
 							</div>
 							<div class="skills-item skill3">
