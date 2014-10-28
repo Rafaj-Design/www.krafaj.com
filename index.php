@@ -175,7 +175,7 @@
 					
 						<h1 class="big-text">I am <br/>Katerina Rafaj </h1>
 						
-						<p class="lead">I am Katerina Rafaj, a twenty eight year old designer from London. I have graduated with a Bachelor degree of Landscape Design from Prague Horticulture University and have a degree from the London College of Garden Design.</p>
+						<p class="lead">I am Katerina Rafaj, a twenty eight year old designer from London. I have graduated with a Bachelor degree in Garden and Landscape maintenance Prague University of Life Sciences and have a degree from the London College of Garden Design.</p>
 					
 						<p>I love gardens and landscapes; I am passionate about using space cleverly and celebrating the strength in every landscape. Attention to detail is very important in my work and I take pride in making all the small things right.</p>
 						<p>&nbsp;</p>
