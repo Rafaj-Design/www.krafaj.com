@@ -7,6 +7,7 @@
 		=============================================== -->
 		<meta charset="utf-8">
 		<title>Katerina Rafaj Garden Design &amp; Maintenance</title>
+		<meta name="google-site-verification" content="mS2OuwxJ1aMuLhP8Wj4gxOlDddhjyeKzNENKErcsva8" />
 		<meta name="description" content="">
 		<meta name="keywords" content="Garden, Design, Award, Winning">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
