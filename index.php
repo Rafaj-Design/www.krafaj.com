@@ -473,7 +473,7 @@
 						<img class="img-responsive project-image" src="portfolio/th/10.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Concept garden</h2><!--Project Title -->
+							<h2 class="project-title">Conceptual garden</h2><!--Project Title -->
 							<p>2015</p><!--Project Subtitle -->
 						</div>
 						
@@ -491,7 +491,7 @@
 						<img class="img-responsive project-image" src="portfolio/th/11.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Concept garden</h2><!--Project Title -->
+							<h2 class="project-title">Conceptual garden</h2><!--Project Title -->
 							<p>2015</p><!--Project Subtitle -->
 						</div>
 						
@@ -534,7 +534,7 @@
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/13.png" >
-							<p>Designed by cgd landscape design</p>
+							<p>Designe by cgd landscape design</p>
 							
 						</div>
 						
@@ -553,7 +553,7 @@
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/14.png" >
-							<p>Designed by cgd landscape design</p>
+							<p>Designe by cgd landscape design</p>
 							
 						</div>
 						
