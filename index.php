@@ -80,7 +80,7 @@
 						<li>
 							<a href="#about" class="scrollto">About Me</a>
 						</li>
-						<!-- <li><a href="#portfolio" class="scrollto">My Works</a></li> -->
+						<li><a href="#portfolio" class="scrollto">My Works</a></li>
 						<li>
 							<a href="#contact" class="scrollto">Contact Me</a>
 						</li>
@@ -249,7 +249,7 @@
 		</section>
 			
 		<?php
-		if (false) {
+		if (true) {
 		?>
 		<!-- ==============================================
 		PORTFOLIO
@@ -263,6 +263,7 @@
 				<!--==== Portfolio Filters ====-->
 				<div id="filter-works">
 					<ul>
+						<!--
 						<li class="active scrollimation fade-right d1">
 							<a href="#" data-filter="*">All</a>
 						</li>
@@ -270,11 +271,12 @@
 							<a href="#" data-filter=".hampton">Hampton Court</a>
 						</li>
 						<li class="scrollimation fade-left">
-							<a href="#" data-filter=".designs">Designs</a>
+							<a href="#" data-filter=".designs">Sketchup 3D</a>
 						</li>
 						<li class="scrollimation fade-left d1">
-							<a href="#" data-filter=".freestyle">Freestyle</a>
+							<a href="#" data-filter=".freestyle">Realisations</a>
 						</li>
+						-->
 					</ul>
 				</div><!--End portfolio filters -->
 				
@@ -302,7 +304,7 @@
 					=============================================== -->	
 					<article class="project-item freestyle">
 						
-						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
+						<img class="img-responsive project-image" src="portfolio/th/1.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Designer World</h2><!--Project Title -->
@@ -311,13 +313,12 @@
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="assets/images/slide.png,assets/images/slide.png" >
+						<div class="sr-only project-description" data-images="portfolio/img/1.png" >
 						
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
 							
 							<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
 							<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
-							<p class="text-center"><a class="btn btn-color1" href="#external-link"><i class="fa fa-arrow-right"></i>Visit Website</a></p>
 						
 						</div>
 						
@@ -328,7 +329,7 @@
 					
 					<article class="project-item hampton designs">
 						
-						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
+						<img class="img-responsive project-image" src="portfolio/th/2.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Squirrel</h2><!--Project Title -->
@@ -337,13 +338,12 @@
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="assets/images/slide.png,assets/images/slide.png" >
+						<div class="sr-only project-description" data-images="portfolio/img/2.png" >
 						
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
 							
 							<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
 							<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
-							<p class="text-right"><a class="btn btn-color1" href="#external-link"><i class="fa fa-dribbble"></i>View on Dribbble</a></p>
 							
 						</div>
 						
@@ -351,7 +351,7 @@
 
 					<article class="project-item freestyle">
 						
-						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
+						<img class="img-responsive project-image" src="portfolio/th/3.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Radio Tape</h2><!--Project Title -->
@@ -360,7 +360,7 @@
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="assets/images/slide.png,assets/images/slide.png" >
+						<div class="sr-only project-description" data-images="portfolio/img/3.png" >
 						
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
 							
@@ -373,7 +373,7 @@
 
 					<article class="project-item hampton">
 						
-						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
+						<img class="img-responsive project-image" src="portfolio/th/4.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Austin Texas</h2><!--Project Title -->
@@ -382,20 +382,19 @@
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="assets/images/slide.png,assets/images/slide.png" >
+						<div class="sr-only project-description" data-images="portfolio/img/4.png" >
 						
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
 							
 							<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
 							<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
-							<p class="text-right"><a class="btn btn-color1" href="#external-link"><i class="fa fa-dribbble"></i>View on Dribbble</a></p>
 						</div>
 						
 					</article><!--End Project Item -->
 
 					<article class="project-item designs">
 						
-						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
+						<img class="img-responsive project-image" src="portfolio/th/5.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Red Glove</h2><!--Project Title -->
@@ -404,7 +403,7 @@
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="assets/images/slide.png,assets/images/slide.png" >
+						<div class="sr-only project-description" data-images="portfolio/img/5.png" >
 						
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
 							
@@ -417,7 +416,7 @@
 
 					<article class="project-item designs">
 						
-						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
+						<img class="img-responsive project-image" src="portfolio/th/6.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Checklist</h2><!--Project Title -->
@@ -426,20 +425,19 @@
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="assets/images/slide.png,assets/images/slide.png" >
+						<div class="sr-only project-description" data-images="portfolio/img/6.png" >
 						
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
 							
 							<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
 							<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
-							<p class="text-center"><a class="btn btn-color1" href="#external-link"><i class="fa fa-arrow-right"></i>Visit Website</a></p>
 						</div>
 						
 					</article><!--End Project Item -->
 					
 					<article class="project-item hampton designs">
 						
-						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
+						<img class="img-responsive project-image" src="portfolio/th/7.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Music City</h2><!--Project Title -->
@@ -448,20 +446,19 @@
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="assets/images/slide.png,assets/images/slide.png" >
+						<div class="sr-only project-description" data-images="portfolio/img/7.png" >
 						
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
 							
 							<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
 							<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
-							<p class="text-right"><a class="btn btn-color1" href="#external-link"><i class="fa fa-dribbble"></i>View on Dribbble</a></p>
 						</div>
 						
 					</article><!--End Project Item -->
 
 					<article class="project-item freestyle designs">
 						
-						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
+						<img class="img-responsive project-image" src="portfolio/th/8.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Black Rock</h2><!--Project Title -->
@@ -470,20 +467,19 @@
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="assets/images/slide.png,assets/images/slide.png" >
+						<div class="sr-only project-description" data-images="portfolio/img/8.png" >
 						
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
 							
 							<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
 							<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
-							<p class="text-center"><a class="btn btn-color1" href="#external-link"><i class="fa fa-arrow-right"></i>Visit Website</a></p>
 						</div>
 						
 					</article><!--End Project Item -->
 
 					<article class="project-item freestyle hampton">
 						
-						<img class="img-responsive project-image" src="assets/images/thumb.png"  alt=""><!--Project thumb -->
+						<img class="img-responsive project-image" src="portfolio/th/9.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
 							<h2 class="project-title">Coyote</h2><!--Project Title -->
@@ -492,13 +488,117 @@
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="assets/images/slide.png,assets/images/slide.png" >
+						<div class="sr-only project-description" data-images="portfolio/img/9.png" >
 						
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
 							
 							<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
 							<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
-							<p class="text-center"><a class="btn btn-color1" href="#external-link"><i class="fa fa-arrow-right"></i>Visit Website</a></p>
+						</div>
+						
+					</article><!--End Project Item -->	
+
+					<article class="project-item freestyle hampton">
+						
+						<img class="img-responsive project-image" src="portfolio/th/10.png"  alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">Coyote</h2><!--Project Title -->
+							<p>freestyle / hampton</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" data-images="portfolio/img/10.png" >
+						
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
+							<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
+							<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
+						</div>
+						
+					</article><!--End Project Item -->	
+
+					<article class="project-item freestyle hampton">
+						
+						<img class="img-responsive project-image" src="portfolio/th/11.png"  alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">Coyote</h2><!--Project Title -->
+							<p>freestyle / hampton</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" data-images="portfolio/img/11.png" >
+						
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
+							<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
+							<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
+						</div>
+						
+					</article><!--End Project Item -->	
+
+					<article class="project-item freestyle">
+						
+						<img class="img-responsive project-image" src="portfolio/th/12.png"  alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">Coyote</h2><!--Project Title -->
+							<p>freestyle / hampton</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" data-images="portfolio/img/12.png" >
+						
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
+							<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
+							<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
+						</div>
+						
+					</article><!--End Project Item -->	
+
+					<article class="project-item freestyle">
+						
+						<img class="img-responsive project-image" src="portfolio/th/13.png"  alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">Coyote</h2><!--Project Title -->
+							<p>freestyle / hampton</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" data-images="portfolio/img/13.png" >
+						
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
+							<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
+							<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
+						</div>
+						
+					</article><!--End Project Item -->	
+
+					<article class="project-item freestyle">
+						
+						<img class="img-responsive project-image" src="portfolio/th/14.png"  alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">Coyote</h2><!--Project Title -->
+							<p>freestyle / hampton</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" data-images="portfolio/img/14.png" >
+						
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
+							<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
+							<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
 						</div>
 						
 					</article><!--End Project Item -->	
