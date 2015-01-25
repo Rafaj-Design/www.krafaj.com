@@ -307,16 +307,16 @@
 						<img class="img-responsive project-image" src="portfolio/th/1.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Designer World</h2><!--Project Title -->
-							<p>freestyle</p><!--Project Subtitle -->
+							<h2 class="project-title">Gluttony</h2><!--Project Title -->
+							<p>hampton court 2014</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/1.png" >
-						
+						<!--
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
-						
+						-->
 						</div>
 						
 					</article>
@@ -329,8 +329,8 @@
 						<img class="img-responsive project-image" src="portfolio/th/2.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Squirrel</h2><!--Project Title -->
-							<p>hampton / designs</p><!--Project Subtitle -->
+							<h2 class="project-title">Gluttony</h2><!--Project Title -->
+							<p>hampton court 2014</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
