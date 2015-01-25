@@ -176,7 +176,7 @@
 					
 						<h1 class="big-text">I am <br/>Katerina Rafaj </h1>
 						
-						<p class="lead">I am Katerina Rafaj, a twenty eight year old designer from London. I have graduated with a Bachelor degree in Garden and Landscape maintenance Czech University of Life Sciences in Prague and have a degree from the London College of Garden Design.</p>
+						<p class="lead">I am Katerina Rafaj, a twenty nine year old designer from London. I have graduated with a Bachelor degree in Garden and Landscape maintenance Czech University of Life Sciences in Prague and have a degree from the London College of Garden Design.</p>
 					
 						<p>I love gardens and landscapes; I am passionate about using space cleverly and celebrating the strength in every landscape. Attention to detail is very important in my work and I take pride in making all the small things right.</p>
 						<p>&nbsp;</p>
@@ -185,7 +185,7 @@
 								<img src="assets/images/gold.png" alt="" />
 							</div>
 							<div class="col-sm-8">
-								<p class="lead">I won a gold medal for my garden Gluttony at <strong>Hampton Court Flower Show 2014</strong></p>
+								<p class="lead">I won a <strong>gold</strong> medal for my garden Gluttony at <strong>Hampton Court Flower Show 2014</strong></p>
 								<p><small>* as shown on the header photo</small></p>
 							</div>
 						</div>
@@ -282,15 +282,15 @@
 				
 				<!--==== Project Preview ====-->
 				<div id="project-preview">
-				
+					
 					<span class="close-preview">&times;</span>
-				
+					
 					<div id="project-slider" class="flexslider"></div>
 					
 					<h1 id="project-title"></h1>
-				
+					
 					<div id="project-content"></div>
-				
+					
 				</div><!--Project Preview -->
 				
 			</div>
