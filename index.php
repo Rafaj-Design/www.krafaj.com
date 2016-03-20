@@ -307,16 +307,16 @@
 						<img class="img-responsive project-image" src="portfolio/th/1.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Designer World</h2><!--Project Title -->
-							<p>freestyle</p><!--Project Subtitle -->
+							<h2 class="project-title">Gluttony</h2><!--Project Title -->
+							<p>hampton court 2014</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/1.png" >
-						
+						<!--
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
-						
+						-->
 						</div>
 						
 					</article>
@@ -329,15 +329,15 @@
 						<img class="img-responsive project-image" src="portfolio/th/2.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Squirrel</h2><!--Project Title -->
-							<p>hampton / designs</p><!--Project Subtitle -->
+							<h2 class="project-title">Gluttony</h2><!--Project Title -->
+							<p>hampton court 2014</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/2.png" >
 						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->
@@ -347,15 +347,15 @@
 						<img class="img-responsive project-image" src="portfolio/th/3.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Radio Tape</h2><!--Project Title -->
-							<p>freestyle</p><!--Project Subtitle -->
+							<h2 class="project-title">Gluttony</h2><!--Project Title -->
+							<p>hampton court 2014</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/3.png" >
 						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->
@@ -365,15 +365,15 @@
 						<img class="img-responsive project-image" src="portfolio/th/4.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Austin Texas</h2><!--Project Title -->
-							<p>hampton</p><!--Project Subtitle -->
+							<h2 class="project-title">The Secret Garden</h2><!--Project Title -->
+							<p>hampton court 2013</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/4.png" >
 						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->
@@ -383,15 +383,15 @@
 						<img class="img-responsive project-image" src="portfolio/th/5.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Red Glove</h2><!--Project Title -->
-							<p>designs</p><!--Project Subtitle -->
+							<h2 class="project-title">The Secret Garden</h2><!--Project Title -->
+							<p>hampton court 2013</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/5.png" >
 						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->
@@ -401,15 +401,15 @@
 						<img class="img-responsive project-image" src="portfolio/th/6.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Checklist</h2><!--Project Title -->
-							<p>designs</p><!--Project Subtitle -->
+							<h2 class="project-title">The Secret Garden</h2><!--Project Title -->
+							<p>hampton court 2013</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/6.png" >
 						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->
@@ -419,15 +419,15 @@
 						<img class="img-responsive project-image" src="portfolio/th/7.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Music City</h2><!--Project Title -->
-							<p>hampton / designs</p><!--Project Subtitle -->
+							<h2 class="project-title">The Secret Garden</h2><!--Project Title -->
+							<p>hampton court 2013</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/7.png" >
 						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->
@@ -437,15 +437,15 @@
 						<img class="img-responsive project-image" src="portfolio/th/8.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Black Rock</h2><!--Project Title -->
-							<p>freestyle / designs</p><!--Project Subtitle -->
+							<h2 class="project-title">Residential</h2><!--Project Title -->
+							<p>Private garden</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/8.png" >
 						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->
@@ -455,15 +455,15 @@
 						<img class="img-responsive project-image" src="portfolio/th/9.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Coyote</h2><!--Project Title -->
-							<p>freestyle / hampton</p><!--Project Subtitle -->
+							<h2 class="project-title">Residential</h2><!--Project Title -->
+							<p>Private garden</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/9.png" >
 						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->	
@@ -473,15 +473,15 @@
 						<img class="img-responsive project-image" src="portfolio/th/10.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Coyote</h2><!--Project Title -->
-							<p>freestyle / hampton</p><!--Project Subtitle -->
+							<h2 class="project-title">Conceptual garden</h2><!--Project Title -->
+							<p>2015</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/10.png" >
 						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->	
@@ -491,15 +491,15 @@
 						<img class="img-responsive project-image" src="portfolio/th/11.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Coyote</h2><!--Project Title -->
-							<p>freestyle / hampton</p><!--Project Subtitle -->
+							<h2 class="project-title">Conceptual garden</h2><!--Project Title -->
+							<p>2015</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/11.png" >
 						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->	
@@ -509,15 +509,15 @@
 						<img class="img-responsive project-image" src="portfolio/th/12.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Coyote</h2><!--Project Title -->
-							<p>freestyle / hampton</p><!--Project Subtitle -->
+							<h2 class="project-title">Farleigh hospice</h2><!--Project Title -->
+							<p>Public space</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/12.png" >
 						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->	
@@ -527,15 +527,15 @@
 						<img class="img-responsive project-image" src="portfolio/th/13.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Coyote</h2><!--Project Title -->
-							<p>freestyle / hampton</p><!--Project Subtitle -->
+							<h2 class="project-title">Residential</h2><!--Project Title -->
+							<p>Design visualisation</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/13.png" >
-						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							<p>Designe by cgd landscape design</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->	
@@ -545,15 +545,16 @@
 						<img class="img-responsive project-image" src="portfolio/th/14.png"  alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Coyote</h2><!--Project Title -->
-							<p>freestyle / hampton</p><!--Project Subtitle -->
+							<h2 class="project-title">Residential</h2><!--Project Title -->
+							<p>Design visualisation</p><!--Project Subtitle -->
 						</div>
+						
 						
 						<!--==== Project Preview HTML ====-->
 						
 						<div class="sr-only project-description" data-images="portfolio/img/14.png" >
-						
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
+							<p>Designe by cgd landscape design</p>
+							
 						</div>
 						
 					</article><!--End Project Item -->	
