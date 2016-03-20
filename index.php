@@ -615,8 +615,25 @@
 						<!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.</p> -->
 					
 					</div>
+					
+					<div class="col-sm-6 col-md-offset-1 scrollimation fade-left d3">
+						<p><a style="font-size: 35px;" href="mailto:kr@krafaj.com">kr@krafaj.com</a></p>
+						<p style="font-size: 32px;">0044(0)7588 112 131</p>
+						<p><script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
+							<div id="SkypeButton_Call_katerinahrdinova_1">
+							<script type="text/javascript">
+								Skype.ui({
+									"name": "dropdown",
+									"element": "SkypeButton_Call_katerinahrdinova_1",
+									"participants": ["katerinahrdinova"],
+									"imageSize": 32
+								});
+							</script>
+							</div>
+						</p>
+					</div>
 				
-					<!--=== Contact Form ===-->
+					<!--=== Contact Form ===-- >
 
 					<form id="contact-form" class="col-sm-6 col-md-offset-1 scrollimation fade-left d3" action="contact.php" method="post" novalidate>
 						
@@ -626,7 +643,7 @@
 							<input id="contact-name" name="contactName" placeholder="Your name" class="form-control requiredField" data-new-placeholder="Your name" type="text" data-error-empty="Please enter your name">
 							<i class="fa fa-user"></i>
 						  </div>
-						</div><!-- End name input -->
+						</div>
 						
 						<div class="form-group">
 						  <label class="control-label" for="contact-mail">Email</label>
@@ -634,7 +651,7 @@
 							<input id="contact-mail" name="email" placeholder="Your email" class="form-control requiredField" data-new-placeholder="Your email" type="email" data-error-empty="Please enter your email" data-error-invalid="Invalid email address">
 							<i class="fa fa-envelope"></i>
 						  </div>
-						</div><!-- End email input -->
+						</div>
 						
 						<div class="form-group">
 						  <label class="control-label" for="contact-message">Message</label>
@@ -642,7 +659,7 @@
 								<textarea id="contact-message" name="comments"  placeholder="Your message" class="form-control requiredField" data-new-placeholder="Your message" rows="6" data-error-empty="Please enter your message"></textarea>
 								<i class="fa fa-comment"></i>
 							</div>
-						</div><!-- End textarea -->
+						</div>
 						
 						<p><button name="submit" type="submit" class="btn btn-color2 btn-block" data-error-message="Error!" data-sending-message="Sending..." data-ok-message="Message Sent"><i class="fa fa-paper-plane"></i>Send Message</button></p>
 						<input type="hidden" name="submitted" id="submitted" value="true" />
