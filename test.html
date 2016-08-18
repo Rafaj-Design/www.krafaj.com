@@ -1,0 +1,20 @@
+<html>
+    <script
+              src="https://code.jquery.com/jquery-3.1.0.min.js"
+              integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+              crossorigin="anonymous"></script>
+    <script>
+        $(function() {
+            window.riderLoaded({company_id: 123})
+        })
+        window.riderLoaded = function(riderInfo) {
+            var elem = document.createElement("div");
+            var content = document.createTextNode(riderInfo.company_id);
+            elem.appendChild(content);
+            document.onready
+            document.body.appendChild(elem)
+        }
+    </script>
+</html>
+<body>
+</body>
