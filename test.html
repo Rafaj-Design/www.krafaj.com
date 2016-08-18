@@ -4,6 +4,8 @@
               integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
               crossorigin="anonymous"></script>
     <script>
+	 	alert('loading')
+	 	
         window.riderLoaded = function(riderInfo) {
             var elem = document.createElement("div");
             var content = document.createTextNode(riderInfo.company_id);
@@ -11,6 +13,8 @@
             document.onready
             document.body.appendChild(elem)
         }
+ 
+ 		alert('done')
     </script>
 </html>
 <body>
